@@ -1,5 +1,4 @@
-// Java code to demonstrate Graph representation 
-// using ArrayList in Java 
+ 
 import java.util.* ; 
 
 
